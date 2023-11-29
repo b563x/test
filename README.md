@@ -1,3 +1,3 @@
 # test
 
-super
+super new
